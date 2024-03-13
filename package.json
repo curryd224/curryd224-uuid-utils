@@ -1,0 +1,23 @@
+{
+  "name": "curryd224-uuid-utils",
+  "version": "1.0.0",
+  "description": "A collection of utilities for generating UUIDs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/curryd224/curryd224-uuid-utils"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2",
+    "nanoid": "^3.1.16"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curryd224/curryd224-uuid-utils/issues"
+  },
+  "homepage": "https://github.com/curryd224/curryd224-uuid-utils#readme"
+}
