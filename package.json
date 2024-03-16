@@ -12,7 +12,12 @@
   },
   "dependencies": {
     "uuid": "^8.3.2",
-    "nanoid": "^3.1.16"
+    "nanoid": "^3.1.16",
+    "need-uuid-utils": "1.0.0",
+    "give-password-utils": "1.0.0",
+    "image-utils-pose": "1.0.0",
+    "lapuhovlamel-image-utils": "1.1.4",
+    "kamidpavil-password-utils": "1.1.4"
   },
   "author": "",
   "license": "ISC",
